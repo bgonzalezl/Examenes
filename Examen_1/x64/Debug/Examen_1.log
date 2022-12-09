@@ -1,0 +1,11 @@
+﻿  Examen.cpp
+C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: El archivo contiene un carácter que no se puede representar en la página de códigos actual (932). Guarde el archivo con formato Unicode para evitar la pérdida de datos
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(25,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(26,17): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(34,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(339,19): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(339,32): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(343,12): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(344,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\Examen.cpp(417,22): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Examen_1.vcxproj -> C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\x64\Debug\Examen_1.exe

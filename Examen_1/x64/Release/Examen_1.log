@@ -1,0 +1,2 @@
+﻿Examen.obj : error LNK2001: símbolo externo "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z) sin resolver
+C:\Users\bgonz\Documents\MATLAB\vision_artificial\Proyectos\Examen_1\x64\Release\Examen_1.exe : fatal error LNK1120: 1 externos sin resolver
